@@ -1,4 +1,4 @@
 directadminapi
 ==============
 
-Direct Admin Web Control Panel PHP Api İmplementation
+Direct Admin Web Control Panel PHP Api Implementation
